@@ -1,0 +1,122 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    font-family: "Young Serif", serif;
+}
+.container
+{
+    padding-left:30px;
+    padding-right:30px;
+}
+.section-one{
+    background-color: black;
+    color:white;
+    padding:20px;
+    text-align: center;
+   
+
+}
+.section-six{
+    background-color: black;
+    color:white;
+    padding-bottom:10px;
+    margin-top:10px;
+
+}
+.section-six__name{
+    background-color: black;
+    color:white;
+    
+   text-align:center;
+   
+
+}
+.section-one__role{
+    border-right:10px;
+    border-right:solid;
+    text-align: center;
+    display:inline-block;
+    padding:2px;
+    color:grey;
+
+}
+
+.scetion-one__name{
+    font-size:60px;
+    
+}
+.scetion-one__role{
+    font-size:30px;
+    margin-top:10px;
+}
+.section-two,.section-three,.section-four,.section-five{
+    margin-top:10px;
+    display:inline-block;
+    border: black solid;
+    
+}
+.images{
+    margin-left:200px;
+    
+    vertical-align: top;
+    
+    
+}
+.section-two__role{
+    padding-left:10px;
+    text-align: center;
+}
+.section-two__name{
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.section-two__contact{
+        background-color: black;
+        color:white;
+        
+        text-decoration: none;
+        padding-left: 5px;
+        margin-left: 82px;
+}
+.section-two__desc,.section-three__desc,.section-four__desc,.section-five__desc{
+    margin-top:10px;
+}
+.section-six{
+    background-color:black;
+    color:white;
+    
+}
+.section-six__title a{
+color:skyblue
+}
+
+
+.contact-form{
+    margin-left: 566px;
+}
+.contact-form__input,.contact-form__textarea,.contact-form__submit{
+    margin-top:10px;
+}
+.contact-form__input{
+    
+    border:none;
+    border-bottom:solid black 1px;
+}
+.contact-form__textarea{
+    padding:10px;
+    border:none;
+    border:solid black 1px;
+}
+.contact-form__submit{
+    padding-left: 275px;
+    padding-right: 270px;
+    background-color: yellow;
+    color: black;
+    border: none;
+    margin-left: 367px;
+
+
+}
